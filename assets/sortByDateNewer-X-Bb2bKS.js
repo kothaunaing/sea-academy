@@ -1,0 +1,1 @@
+function u(n,o,e="timestamp",l="older"){var d,c;const s=new Date((d=n[e])!=null&&d.seconds?n[e].seconds*1e3:n[e]),r=new Date((c=o[e])!=null&&c.seconds?o[e].seconds*1e3:o[e]);return l==="older"?s-r:r-s}export{u as s};
