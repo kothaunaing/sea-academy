@@ -1,0 +1,1 @@
+import{j as t}from"./index-14pqm9y1.js";import{S as r}from"./Skeleton-aRLWJJ7b.js";const e=()=>t.jsxs("div",{className:"grid gap-y-2  p-2 ",children:[t.jsx(r,{variant:"text",width:150}),t.jsx(r,{variant:"rectangular",height:55,width:"100%"})]});export{e as S};

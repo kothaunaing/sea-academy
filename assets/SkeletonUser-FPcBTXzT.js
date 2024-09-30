@@ -1,0 +1,1 @@
+import{j as t}from"./index-14pqm9y1.js";import{S as e}from"./Skeleton-aRLWJJ7b.js";const i=()=>t.jsxs("div",{className:"flex gap-x-2 items-center",children:[t.jsx(e,{variant:"circular",height:40,width:40}),t.jsx(e,{variant:"text",height:40,width:"200px"})]});export{i as S};
